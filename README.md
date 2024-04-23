@@ -23,7 +23,7 @@ ScriptName: --> log_monitor.sh
 Path : /home/ubuntu  
 
 
-#Explantion for script
+# Explantion for script
 
 1. Log File Monitoring: Using the tail -f command, the script continuously checks the provided log file ($LOG_FILE) for new entries.
 
@@ -41,7 +41,7 @@ Path : /home/ubuntu
 Each time the function is called, it appends the new summary report to the file. (this only run when only error is genrated).
    
 
-#Summary 
+# Summary 
 
 This script counts the number of times a certain term/error appears in the log file,monitors it continuously, and creates summary reports on a regular basis.
 
