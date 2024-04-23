@@ -2,10 +2,6 @@
 This assignment contains the log &amp; monitoring script.
 
 
-
-# DevOps Assignment
-This assignment contains the log & monitoring script as per given assignment.
-
 Created a script that automates the analysis and monitoring of log files.
 
 # Structure #  
